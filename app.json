@@ -4,7 +4,7 @@
     "slug": "recipe-generator",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/logo.jpg",
     "scheme": "recipegenerator",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
